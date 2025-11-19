@@ -24,7 +24,7 @@
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/treeview/main/treeview.py
+wget https://github.com/uaahacker/TreeView-Directory-Structure-Generator)/main/treeview.py
 # Or simply copy the script to your local machine
 ```
 
